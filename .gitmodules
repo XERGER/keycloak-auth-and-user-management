@@ -1,0 +1,3 @@
+[submodule "material-keycloak-theme"]
+	path = material-keycloak-theme
+	url = https://github.com/XERGER/material-keycloak-theme
